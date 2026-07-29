@@ -2,6 +2,8 @@
 
 ![Header](assets/header.svg)
 
+🌐 **Website**: [ismaildz13.github.io/ISMAILdz13](https://ismaildz13.github.io/ISMAILdz13/)
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -33,6 +35,7 @@ class ISMAIL:
         self.focus = ["Game Automation", "Desktop Apps", "Web Dashboards"]
         self.languages = ["Python", "JavaScript", "HTML/CSS"]
         self.tools = ["Flask", "CustomTkinter", "SQLite", "Protobuf", "AES-256", "TCP Sockets"]
+        self.website = "https://ismaildz13.github.io/ISMAILdz13/"
         self.learning = "Always"
     
     def current_projects(self):
@@ -134,6 +137,7 @@ class ISMAIL:
 <div align="center">
 
 <a href="https://github.com/ISMAILdz13"><img src="https://img.shields.io/badge/GitHub-ISMAILdz13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://ismaildz13.github.io/ISMAILdz13/"><img src="https://img.shields.io/badge/Website-ismaildz13.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 </div>
 
